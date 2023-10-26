@@ -1,0 +1,37 @@
+CACHE MANIFEST 
+# 2023-10-26:v30
+
+CACHE:
+3.00.js
+3.10.js
+3.20.js
+3.21.js
+4.00.js
+4.02.js
+4.03.js
+4.50.js
+4.51.js
+appcache_handler.js
+custom_host_stuff.js
+exploit.js
+index.html
+int64.js
+main.css
+payload_map.js
+rop.js
+rop_slave.js
+service_worker.js
+webkit.js
+payloads\Browser_appCache_remove.elf
+payloads\elfldr.elf
+payloads\ftps5-np.elf
+payloads\ftps5-p.elf
+payloads\getOsVersion.elf
+payloads\libhijacker-daemon-1.124.elf
+payloads\libhijacker-spawner-1.124.elf
+payloads\ps5-kstuff-v1.1.bin
+payloads\ps5-kstuff.bin
+payloads\versions.elf
+
+NETWORK: 
+* 
