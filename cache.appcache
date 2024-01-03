@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# 2023-10-28:v43
+# 2024-01-03:v45
 
 CACHE:
 3.00.js
@@ -29,7 +29,7 @@ payloads\ftps5-p.elf
 payloads\getOsVersion.elf
 payloads\libhijacker-daemon-1.124.elf
 payloads\libhijacker-spawner-1.124.elf
-payloads\ps5-kstuff-v1.1.bin
+payloads\ps5-kstuff-v1.3.bin
 payloads\ps5-kstuff.bin
 payloads\versions.elf
 
