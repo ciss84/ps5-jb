@@ -6,7 +6,7 @@ const payload_map =
             fileName: 'etaHEN-1.3B.bin',
             author: 'LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion',
             source: 'https://github.com/LightningMods/etaHEN',
-            version: '1.3 beta'
+            version: '1.3'
         },
         {
             displayTitle: 'etaHEN 1.2b By LM',
@@ -14,7 +14,7 @@ const payload_map =
             fileName: 'etaHEN-1.2B.bin',
             author: 'LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion',
             source: 'https://github.com/LightningMods/etaHEN',
-            version: '1.1 beta'
+            version: '1.2'
         },        
         {
             displayTitle: 'K-Stuff',
