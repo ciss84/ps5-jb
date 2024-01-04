@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# 2024-01-04:v56
+# 2024-01-04:v57
 
 CACHE: 
 3.00.js
@@ -12,30 +12,28 @@ CACHE:
 4.50.js
 4.51.js
 appcache_handler.js
-Browser_appCache_remove.elf
 custom_host_stuff.js
-elfldr.elf
-etaHEN-1.2B.bin
-etaHEN-1.3B.bin
 exploit.js
-ftps5-np.elf
-ftps5-p.elf
-getOsVersion.elf
 index.html
 int64.js
-libhijacker-daemon-1.124.elf
-libhijacker-spawner-1.124.elf
 main.css
 payload_map.js
-ps5-kstuff-v1.1.bin
-ps5-kstuff-v1.3.bin
-ps5debug.elf
 robots.txt
 rop.js
 rop_slave.js
 service_worker.js
-versions.elf
 webkit.js
+Browser_appCache_remove.elf
+elfldr.elf
+etaHEN-1.2B.bin
+etaHEN-1.3B.bin
+ftps5-np.elf
+ftps5-p.elf
+getOsVersion.elf
+libhijacker-daemon-1.124.elf
+libhijacker-spawner-1.124.elf
+ps5-kstuff-v1.3.bin
+versions.elf
 
 NETWORK: 
 * 

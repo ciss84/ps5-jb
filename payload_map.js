@@ -2,27 +2,27 @@ const payload_map =
     [
         {
             displayTitle: 'etaHEN 1.3b By LM',
-            description: 'FPKG enabler For 3.xx and 4.xx.',
+            description: 'Runs With 3.xx and 4.xx. FPKG enabler For FW 3.xx & 4.xx Only.',
             fileName: 'etaHEN-1.3B.bin',
             author: 'LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion',
             source: 'https://github.com/LightningMods/etaHEN',
             version: '1.3 beta'
         },
         {
-            displayTitle: 'etaHEN 1.2B experimental By LM',
-            description: 'FPKG enabler For 3.xx and 4.xx.',
-            fileName: 'etaHEN-1.2B.bin'',
+            displayTitle: 'etaHEN 1.2b By LM',
+            description: 'Runs With 3.xx and 4.xx. FPKG enabler For FW 3.xx & 4.xx Only.',
+            fileName: 'etaHEN-1.2B.bin',
             author: 'LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion',
             source: 'https://github.com/LightningMods/etaHEN',
-            version: '1.2 beta'
-        },       
+            version: '1.1 beta'
+        },        
         {
             displayTitle: 'K-Stuff',
-            description: 'FW 3.xx & 4.xx Only. FPKG enabler',
+            description: 'For FW 3.xx & 4.xx Only. FPKG enabler',
             fileName: 'ps5-kstuff-v1.3.bin',
             author: 'sleirsgoevy',
             source: 'https://github.com/sleirsgoevy/ps4jb2/blob/ps5-403/ps5-kstuff.bin',
-            version: '1.1'
+            version: '1.3'
         },
         {
             displayTitle: 'libhijacker game-patch',
@@ -33,14 +33,6 @@ const payload_map =
             loader: 'libhijacker',
             version: '1.124'
         },
-        {
-            displayTitle: 'ps5 debuger',
-            description: 'ps5debug is currently an experimental beta',
-            fileName: 'ps5debug.elf',
-            author: 'SiSTR0',
-            source:'https://github.com/GoldHEN/ps5debug/releases',
-            version: '1.0'
-        },        
         {
             displayTitle: 'PS5 Payload ELF Loader',
             description: 'Uses port 9021. Persistent network elf loader',
