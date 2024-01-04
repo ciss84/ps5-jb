@@ -1,22 +1,46 @@
 const payload_map =
     [
         {
+            displayTitle: 'etaHEN 1.3b By LM',
+            description: 'FPKG enabler For 3.xx and 4.xx.',
+            fileName: 'etaHEN-1.3B.bin',
+            author: 'LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion',
+            source: 'https://github.com/LightningMods/etaHEN',
+            version: '1.3 beta'
+        },
+        {
+            displayTitle: 'etaHEN 1.2B experimental By LM',
+            description: 'FPKG enabler For 3.xx and 4.xx.',
+            fileName: 'etaHEN-1.2B.bin'',
+            author: 'LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion',
+            source: 'https://github.com/LightningMods/etaHEN',
+            version: '1.2 beta'
+        },       
+        {
             displayTitle: 'K-Stuff',
-            description: 'FW 3.00 & FW 3.10 & FW 3.20 & FW 3.21 & FW 4.03 & 4.50 Only. FPKG enabler',
+            description: 'FW 3.xx & 4.xx Only. FPKG enabler',
             fileName: 'ps5-kstuff-v1.3.bin',
             author: 'sleirsgoevy',
             source: 'https://github.com/sleirsgoevy/ps4jb2/blob/ps5-403/ps5-kstuff.bin',
-            version: '1.3'
+            version: '1.1'
         },
         {
             displayTitle: 'libhijacker game-patch',
-            description: '(v1.124) Patches supported games to run at higher framerates, and adds debug menus to certain titles.',
+            description: 'Patches supported games to run at higher framerates, and adds debug menus to certain titles.',
             fileName: 'libhijacker-spawner-1.124.elf;libhijacker-daemon-1.124.elf',
             author: 'illusion0001, astrelsky',
             source: 'https://github.com/illusion0001/libhijacker/releases',
             loader: 'libhijacker',
             version: '1.124'
         },
+        {
+            displayTitle: 'ps5 debuger',
+            description: 'ps5debug is currently an experimental beta',
+            fileName: 'ps5debug.elf',
+            author: 'SiSTR0',
+            source:'https://github.com/GoldHEN/ps5debug/releases',
+            version: '1.0'
+        },        
         {
             displayTitle: 'PS5 Payload ELF Loader',
             description: 'Uses port 9021. Persistent network elf loader',
@@ -53,9 +77,9 @@ const payload_map =
             displayTitle: 'GetOSVersion',
             description: 'very slow',
             fileName: 'getOsVersion.elf',
-            author: 'todo',
-            source:'https://mega.nz/folder/4xA2ATTI#6lHvye1JUfhxRGvqOva8fw/folder/gwhWmRrB',
-            version: '1.0'
+            author: 'logic-68',
+            source:'https://github.com/logic-68/getOsVersion/releases',
+            version: '1.0.2'
         },
         {
             displayTitle: 'PS5_Browser_appCache_remove',
