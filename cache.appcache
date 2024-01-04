@@ -1,4 +1,5 @@
 CACHE MANIFEST 
+# 2024-01-04:v56
 
 CACHE: 
 3.00.js
@@ -12,7 +13,6 @@ CACHE:
 4.51.js
 appcache_handler.js
 Browser_appCache_remove.elf
-cache.appcache
 custom_host_stuff.js
 elfldr.elf
 etaHEN-1.2B.bin
