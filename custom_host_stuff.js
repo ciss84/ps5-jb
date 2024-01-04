@@ -114,12 +114,12 @@ function redirectorGo() {
 }
 
 const default_pinned_websites = [
-    "https://es7in1.site/ps5jb",
+    "https://ciss84.github.io/ps5-jb1",
     "https://google.com"
 ]
 
 const dummy_history = [
-    "https://es7in1.site/ps5jb",
+    "https://ciss84.github.io/ps5-jb1",
     "https://google.com",
     "https://ps5jb.pages.dev",
     "https://github.com",
